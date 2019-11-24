@@ -6,5 +6,5 @@ Using IBM DataPower Gateway, sometimes you need to remove some HTTP headers whic
 
 ## How to use it?
 
-Just drag this XSLT to your processing rule (as a transform action) and **set the INPUT  & the OUTPUT of this action to NULL**.
+Just drag this XSLT to your processing rule (as a transform action), set the header name under the 'Advanced' tab and **set the INPUT  & the OUTPUT of this action to NULL**.
 
